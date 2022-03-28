@@ -1,10 +1,6 @@
 # Problem Statment - Attendance-Module
-Student work done
 
-- Adnan Haque  - @ adnanhaque@ternaengg.ac.in
-  - Full Backend
-  - Logical Part Of Frontend (tables and Charts)
-  - Updation and Insertion Queries in Tables (Frontend)
+# Made By Adnan Haque
 
 # ScreenShots of Tables
 # Teacher Attendance Report.
