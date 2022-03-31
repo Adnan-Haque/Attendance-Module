@@ -41,6 +41,9 @@ export const Quotes = () => {
     // var rand = Math.floor(Math.random() * 5) + 1;
     // console.log("this is rand", rand)
 
+
+    // here are some changes
+    
     const quotes = useMemo(
         () => [
             {
